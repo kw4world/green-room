@@ -1,4 +1,4 @@
 green-room
 ==========
 
-wright later.
+write later.
